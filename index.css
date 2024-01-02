@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(153, 224, 224);
+    padding: 20px;
+    margin-bottom: 10px;
+}
+div h1{
+    text-align: center;
+}
+.header{
+    font-size: 60px;
+    color: rgb(241, 174, 149);
+}
